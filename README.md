@@ -27,11 +27,11 @@ pip install opencv-python numpy
 ## 📁 Files Needed
 
 1. `res10_300x300_ssd_iter_140000.caffemodel`  
-   [Download Link](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)
-made py [mshabunin](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector)
+   - [Download Link](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)
+- made py [mshabunin](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector)
 2. `deploy.prototxt`  
-   [Download Link]([https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt](https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/deploy.prototxt))
-made py [mshabunin](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector)
+   - [Download Link]([https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt](https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/deploy.prototxt))
+- made py [mshabunin](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector)
 
 4. A video file to test, e.g., `your_video.mp4`.
 
