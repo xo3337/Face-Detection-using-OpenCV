@@ -10,7 +10,7 @@ This project uses OpenCV's deep learning module (`cv2.dnn`) to detect human face
 https://github.com/user-attachments/assets/db27d797-99d0-49ee-84ad-30287f0279d8
 
 
----
+
 
 ## 📦 Requirements
 
