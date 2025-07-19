@@ -37,7 +37,7 @@ pip install opencv-python numpy
 
 ---
 
-## 📄 Code Example
+## 📄 Code
 
 ```python
 import cv2
