@@ -3,10 +3,8 @@
 
 This project uses OpenCV's deep learning module (`cv2.dnn`) to detect human faces in a video file using a pre-trained model based on SSD and ResNet10.
 
----
+
 ## 🎞️ Demonstration video of the output
-
-
 https://github.com/user-attachments/assets/db27d797-99d0-49ee-84ad-30287f0279d8
 
 
