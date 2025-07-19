@@ -30,7 +30,7 @@ pip install opencv-python numpy
    [Download Link](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)
 
 2. `deploy.prototxt`  
-   [Download Link](https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt)
+   [Download Link]([https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt](https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/deploy.prototxt))
 
 3. A video file to test, e.g., `your_video.mp4`.
 
